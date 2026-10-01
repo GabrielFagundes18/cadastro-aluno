@@ -7,6 +7,12 @@
     "userInterfaceStyle": "light",
     "android": {
       "package": "com.cadastroaluno.app"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "346c18bf-1f85-4bc2-abbe-96f1e675a66c"
+      }
+    },
+    "owner": "gabrielfagundesdeoliveira"
   }
 }
