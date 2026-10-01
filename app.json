@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "CadastroAluno",
+    "slug": "cadastro-aluno",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "android": {
+      "package": "com.cadastroaluno.app"
+    }
+  }
+}
